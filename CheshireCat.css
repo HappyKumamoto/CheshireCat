@@ -1,13 +1,11 @@
-body {
-  background-color: #FDFFFF;
-  width: 500px;
-  margin-right: auto;
-  margin-left: auto;
-}
+body{
+ text-align:center;
+ }
 .face {
   color: tomato ;
 }
 .back {
   color: olive ;
 }
-
+.kinoeda{
+  color: darkgoldenrod;
