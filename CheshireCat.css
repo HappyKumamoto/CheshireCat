@@ -1,12 +1,14 @@
 body{
- text-align:center;
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- }
-.face {
-  color: tomato ;
+    margin-left: 100px;
+    margin-right: 0 auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.back {
-  color: olive ;
+.face {
+    color:tomato;
+}
+.back{
+    color:olive;
 }
 .kinoeda{
-  color: darkgoldenrod;
+    color:darkgoldenrod;
+}
